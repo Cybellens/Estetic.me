@@ -1,0 +1,30 @@
+.bg-pink {
+    background-color: #f8a9c7;
+  }
+  
+  .text-pink {
+    color: #f8a9c7;
+  }
+  
+  .btn-pink {
+    background-color: #f8a9c7;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-pink:hover {
+    background-color: #f28cb3;
+  }
+  
+  .border-pink {
+    border-color: #f8a9c7;
+  }
+  
+  .container-fluid {
+    max-width: 1200px;
+  }
+  
+  .row {
+    border-radius: 15px;
+  }
+  
